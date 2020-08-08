@@ -1,2 +1,2 @@
 # bogota-bank
-This is a repository code for Bogota's bank
+This is a repository code for the test.
